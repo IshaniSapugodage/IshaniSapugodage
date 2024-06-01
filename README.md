@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishanisapugodage&label=Profile%20views&color=0e75b6&style=flat" alt="ishanisapugodage" /> </p>
-
+---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanisapugodage" alt="ishanisapugodage" /></a> </p>
 
 - 💬 Ask me about **html, css, javascript, java, c++, c#**
